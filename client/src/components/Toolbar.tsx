@@ -1,6 +1,6 @@
 function Toolbar() {
   return (
-    <div>
+    <div className="toolbar">
       <button>Add Element</button>
       <button>Push (Stack)</button>
       <button>Pop (Stack)</button>
